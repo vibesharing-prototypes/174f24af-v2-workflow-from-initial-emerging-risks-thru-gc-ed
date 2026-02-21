@@ -129,10 +129,7 @@ export default function PrototypeIndex() {
         {/* Footer */}
         <div className="mt-12 pt-8 border-t border-[#30363d] text-center">
           <p className="text-sm text-[#484f58]">
-            Prototype built with Next.js • Hosted on VibeSharing •{" "}
-            <Link href="/help" className="hover:text-white transition-colors">
-              Help
-            </Link>
+            Prototype built with Next.js • Hosted on VibeSharing
           </p>
         </div>
       </main>
